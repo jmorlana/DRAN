@@ -14,7 +14,7 @@ Code for training and testing should be released by the end of June 2023.
 
 ## Related Publication:
 
-Javier Morlana and J.M.M. Montiel, **Reuse your features: unifying retrieval and feature-metric alignment**, to appear at *ICRA 2023*. [PDF](hhttps://arxiv.org/pdf/2204.06292.pdf)
+Javier Morlana and J.M.M. Montiel, **Reuse your features: unifying retrieval and feature-metric alignment**, to appear at *ICRA 2023*. [PDF](https://arxiv.org/pdf/2204.06292.pdf)
 ```
 @article{morlana2023reuseyourfeatures,
   title={Reuse your features: unifying retrieval and feature-metric alignment},

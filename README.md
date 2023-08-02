@@ -10,17 +10,19 @@ We introduce DRAN, a neural network able to perform all the task present in Visu
   <a><img src="assets/stages.jpeg" width="80%"/></a>
 </p>
 
-Code for training and testing should be released by the end of June 2023. 
+Code for training and testing should be released in mid-autumn 2023. 
 
 ## Related Publication:
 
-Javier Morlana and J.M.M. Montiel, **Reuse your features: unifying retrieval and feature-metric alignment**, to appear at *ICRA 2023*. [PDF](https://arxiv.org/pdf/2204.06292.pdf)
+Javier Morlana and J.M.M. Montiel, **Reuse your features: unifying retrieval and feature-metric alignment**, *ICRA 2023*. [PDF](https://arxiv.org/pdf/2204.06292.pdf)
 ```
-@article{morlana2023reuseyourfeatures,
+@inproceedings{morlana2023reuse,
   title={Reuse your features: unifying retrieval and feature-metric alignment},
-  author={Javier Morlana and J.M.M. Montiel},
-  journal={arXiv preprint arXiv:2204.06292},
-  year={2023}
+  author={Morlana, Javier and Montiel, JMM},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={6072--6079},
+  year={2023},
+  organization={IEEE}
 }
 ```
 

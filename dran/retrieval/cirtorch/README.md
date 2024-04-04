@@ -1,0 +1,1 @@
+All files under cirtorch are unmodified from the original repository [GeM](https://github.com/filipradenovic/cnnimageretrieval-pytorch).

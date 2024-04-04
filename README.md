@@ -88,7 +88,7 @@ It will initialize a frozen encoder with the retrieval weights stored in `dran/r
 
 This repository is a modified implementation of: [PixLoc](https://github.com/cvg/pixloc), from the paper "Back to the Feature: Learning Robust Camera Localization from Pixels to Pose" by Paul-Edouard Sarlin*, Ajaykumar Unagar*, Måns Larsson, Hugo Germain, Carl Toft, Victor Larsson, Marc Pollefeys, Vincent Lepetit, Lars Hammarstrand, Fredrik Kahl, and Torsten Sattler.
 
-Our repository adapts some code from [S2DHM](https://github.com/germain-hug/S2DHM), [GeM](https://github.com/filipradenovic/cnnimageretrieval-pytorch) and [hloc] (https://github.com/cvg/Hierarchical-Localization).
+Our repository adapts some code from [S2DHM](https://github.com/germain-hug/S2DHM), [GeM](https://github.com/filipradenovic/cnnimageretrieval-pytorch) and [hloc](https://github.com/cvg/Hierarchical-Localization).
 
 **Authors:**  [Javier Morlana](https://scholar.google.com/citations?user=1-DJMB8AAAAJ&hl=es&oi=ao) and [J.M.M. Montiel](http://webdiis.unizar.es/~josemari/).
 
